@@ -1,2 +1,2 @@
-# remote-remote-tailscale
+# docker-remote-tailscale
 Remote docker over tailscale
